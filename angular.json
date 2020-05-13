@@ -131,5 +131,8 @@
       }
     }
   },
-  "defaultProject": "app-make-miracle"
+  "defaultProject": "app-make-miracle",
+  "cli": {
+    "analytics": "4eb70d50-f064-489b-9a79-69feeb9ff579"
+  }
 }
